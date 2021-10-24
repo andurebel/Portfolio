@@ -114,6 +114,8 @@ body {
   margin-top: 2rem;
 }
 
+
+
 .project p {
   margin-top: 2rem;
 }
@@ -124,7 +126,8 @@ body {
 }
 
 .image img {
-  width: 15rem;
+  
+  
   max-width: 100%;
 }
 

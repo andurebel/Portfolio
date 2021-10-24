@@ -5,7 +5,7 @@ export const data = [
     image: "./img/progress.jpg",
     site: "https://progress-steps-andurebel.netlify.app/",
     code: "https://github.com/andurebel/progress-steps",
-    description: "Click on the bullets to see the progress bar move",
+    description: "Click the bullets to see  progress",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const data = [
     image: "./img/expense.jpg",
     site: "https://expensetracker-andurebel.netlify.app/",
     code: "https://github.com/andurebel/Expense_tracker",
-    description: "Expense tracker that uses local storage",
+    description: "Local storage expense tracker",
   },
   {
     id: 4,
@@ -37,14 +37,14 @@ export const data = [
     image: "./img/pokemon.jfif",
     site: "https://pokedex-andurebel.netlify.app/",
     code: "https://github.com/andurebel/pokedex",
-    description: "Displays pokemons and other related information ",
+    description: "Pokemon information ",
   },
   {
     id: 6,
-    name: "Dad Jokes",
-    image: "./img/dad.jpg",
-    site: "https://dadjokes-andurebel.netlify.app/",
-    code: "https://github.com/andurebel/dad-jokes",
+    name: "Chuck Norris Jokes",
+    image: "./img/chuck-norris.jfif",
+    site: "https://chucknorris-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/chuck-norris-jokes",
     description: "Random dad jokes generator",
   },
 ];
