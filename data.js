@@ -1,0 +1,51 @@
+export const data = [
+  {
+    id: 1,
+    name: "Progress Steps",
+    image: "./img/progress.jpg",
+    site: "https://progress-steps-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/progress-steps",
+    description: "Click on the bullets to see the progress bar move",
+  },
+  {
+    id: 2,
+    name: "Countdown timer",
+    image: "./img/clock.jfif",
+    site: "https://countdowntimer-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/CountdownTimer",
+    description: "Countdown timer until user input",
+  },
+  {
+    id: 3,
+    name: "Expense tracker",
+    image: "./img/expense.jpg",
+    site: "https://expensetracker-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/Expense_tracker",
+    description: "Expense tracker that uses local storage",
+  },
+  {
+    id: 4,
+    name: "Cool cards",
+    image: "./img/expanding-cards.jfif",
+    site: "https://expandingcards-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/expanding-cards",
+    description: "Expanding cards cool CSS effect",
+  },
+  {
+    id: 5,
+    name: "Pokedex",
+    image: "./img/pokemon.jfif",
+    site: "https://pokedex-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/pokedex",
+    description: "Displays pokemons and other related information ",
+  },
+  {
+    id: 6,
+    name: "Dad Jokes",
+    image: "./img/dad.jpg",
+    site: "https://dadjokes-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/dad-jokes",
+    description: "Random dad jokes generator",
+  },
+];
+
