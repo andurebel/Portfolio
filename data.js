@@ -1,11 +1,11 @@
 export const data = [
   {
     id: 1,
-    name: "Progress Steps",
-    image: "./img/progress.jpg",
-    site: "https://progress-steps-andurebel.netlify.app/",
-    code: "https://github.com/andurebel/progress-steps",
-    description: "Click the bullets to see  progress",
+    name: "Image Search App",
+    image: "./img/search.jfif",
+    site: "https://pixabay-images-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/image-gallery-react",
+    description: "Image search app  Pixabay API",
   },
   {
     id: 2,
@@ -46,6 +46,14 @@ export const data = [
     site: "https://chucknorris-andurebel.netlify.app/",
     code: "https://github.com/andurebel/chuck-norris-jokes",
     description: "Random dad jokes generator",
+  },
+  {
+    id: 6,
+    name: "Progress Steps",
+    image: "./img/progress.jpg",
+    site: "https://progress-steps-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/progress-steps",
+    description: "Click the bullets to see  progress",
   },
 ];
 
