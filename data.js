@@ -1,6 +1,15 @@
 export const data = [
   {
     id: 1,
+    name: "Events Calendar",
+    image: "./img/calendar.jfif",
+    site: "https://events-calendar-andurebel.netlify.app/",
+    code: "https://github.com/andurebel/events-calendar-react",
+    description: "Events calendar in React",
+  },
+  ,
+  {
+    id: 1,
     name: "Image Search App",
     image: "./img/search.jfif",
     site: "https://pixabay-images-andurebel.netlify.app/",
@@ -56,4 +65,3 @@ export const data = [
     description: "Click the bullets to see  progress",
   },
 ];
-
